@@ -45,5 +45,5 @@
 </main>
 
 <footer>
-    <p>Feito por [Ludmilla, Marina] - [16/09/2025]</p>
+    <p>Feito por Ludmilla, Marina - 16/09/2025</p>
 </footer>
